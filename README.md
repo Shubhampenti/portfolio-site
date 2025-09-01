@@ -24,3 +24,8 @@ Initial repository for a personal portfolio site.
    cd portfolio-site
 
 2. Open particular folder in vs code,then open index.html & use a live server.
+
+
+## Deployed links
+- https://shubhampenti.github.io/portfolio-site/
+- 
