@@ -28,4 +28,5 @@ Initial repository for a personal portfolio site.
 
 ## Deployed links
 - https://shubhampenti.github.io/portfolio-site/
-- 
+- https://thinkbridge-portfolio-site.netlify.app/
+
